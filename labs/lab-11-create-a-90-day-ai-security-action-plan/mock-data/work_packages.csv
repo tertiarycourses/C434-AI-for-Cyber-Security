@@ -1,0 +1,5 @@
+id,work_package,owner,duration_days,depends_on
+W1,Validate telemetry coverage,SOC Engineering,10,
+W2,Build risk-ranked backlog,Vulnerability Manager,15,W1
+W3,Pilot AI triage,SOC Manager,20,W1|W2
+W4,Independent control review,Risk Assurance,10,W3

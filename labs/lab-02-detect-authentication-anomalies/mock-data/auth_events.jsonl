@@ -1,0 +1,3 @@
+{"event_id":"AUTH-01","user":"alex","result":"failure","new_device":true,"geo_velocity_kmh":910}
+{"event_id":"AUTH-02","user":"bea","result":"success","new_device":false,"geo_velocity_kmh":18}
+{"event_id":"AUTH-03","user":"chen","result":"failure","new_device":false,"geo_velocity_kmh":24}

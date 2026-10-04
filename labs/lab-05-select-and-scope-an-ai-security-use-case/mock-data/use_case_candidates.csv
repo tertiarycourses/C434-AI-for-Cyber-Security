@@ -1,0 +1,4 @@
+use_case,decision_supported,data_owner,baseline_minutes,autonomy_level
+Alert summarisation,triage,SOC Manager,18,assistive
+Vulnerability ranking,remediation priority,Vulnerability Manager,45,advisory
+Account containment,session response,IR Lead,12,high-impact

@@ -1,0 +1,5 @@
+cve,asset,cvss,epss,internet_exposed,criticality,compensating_control,source,retrieval_date
+CVE-DEMO-1,VPN,8.1,0.92,1,5,0,NVD-demo,2026-08-28
+CVE-DEMO-2,Payroll DB,9.8,0.18,0,5,1,NVD-demo,2026-08-28
+CVE-DEMO-3,Web CMS,7.5,0.72,1,4,0,NVD-demo,2026-08-28
+CVE-DEMO-4,Test host,9.0,0.55,0,1,0,NVD-demo,2026-08-28

@@ -1,0 +1,4 @@
+document_id,classification,allowed_role
+DOC-01,internal,analyst
+DOC-02,internal,analyst
+DOC-03,restricted,trainer

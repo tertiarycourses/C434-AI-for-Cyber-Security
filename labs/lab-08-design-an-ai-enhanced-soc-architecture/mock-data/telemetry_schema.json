@@ -1,0 +1,5 @@
+{
+  "required": ["event_time", "principal_id", "asset_id", "action", "outcome"],
+  "retention_days": 90,
+  "pii_fields": ["source_ip"]
+}

@@ -1,0 +1,6 @@
+{
+  "NIST_CSF_DE.CM": "continuous monitoring",
+  "NIST_AI_RMF_MEASURE": "model quality and risk measurement",
+  "OWASP_LLM01": "prompt injection testing",
+  "internal_AI_07": "human approval for high-impact action"
+}

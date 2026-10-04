@@ -1,0 +1,6 @@
+{
+  "max_failed_logins_15m": 5,
+  "impossible_travel_kmh": 800,
+  "new_device_action": "step_up_authentication",
+  "automatic_lockout": false
+}

@@ -1,0 +1,5 @@
+component,asset,trust_level,allowed_actions
+Analyst UI,case context,medium,query
+Retrieval service,runbooks,high,read
+LLM gateway,prompts,medium,generate
+Tool broker,SOAR actions,high,dry-run|submit-for-approval

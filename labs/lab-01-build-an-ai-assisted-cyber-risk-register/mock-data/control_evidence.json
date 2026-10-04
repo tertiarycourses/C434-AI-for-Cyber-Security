@@ -1,0 +1,5 @@
+{
+  "E-101": {"control": "MFA", "status": "partial", "tested_on": "2026-08-20"},
+  "E-102": {"control": "WAF", "status": "effective", "tested_on": "2026-08-21"},
+  "E-103": {"control": "EDR", "status": "gap", "tested_on": "2026-08-22"}
+}

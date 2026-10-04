@@ -1,0 +1,6 @@
+{
+  "pilot_budget_sgd": 25000,
+  "maximum_pilot_weeks": 8,
+  "restricted_data": ["customer_pii", "credentials"],
+  "required_approver": "CISO"
+}

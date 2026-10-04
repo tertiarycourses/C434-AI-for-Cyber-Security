@@ -1,0 +1,5 @@
+layer,component,input,output,owner
+Evidence,Security lake,raw events,versioned events,Data Engineering
+Analytics,Detection service,features,scores and reasons,Detection Engineering
+Case,Case platform,alerts,evidence bundle,SOC
+Action,Tool broker,approved action,execution result,Incident Response

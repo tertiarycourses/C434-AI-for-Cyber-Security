@@ -1,0 +1,4 @@
+team,analysts,alerts_per_day,target_review_minutes
+Tier 1,5,900,8
+Tier 2,3,120,20
+Threat Intel,2,25,45

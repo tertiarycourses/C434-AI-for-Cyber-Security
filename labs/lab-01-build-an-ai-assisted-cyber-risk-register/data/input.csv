@@ -1,0 +1,5 @@
+asset_id,business_process,criticality,threat_likelihood,control_effectiveness,evidence_ref
+A-001,Online payments,5,0.80,0.30,log-101
+A-002,HR portal,3,0.65,0.55,audit-22
+A-003,Warehouse IoT,4,0.55,0.20,scan-77
+A-004,Public website,2,0.90,0.65,waf-19

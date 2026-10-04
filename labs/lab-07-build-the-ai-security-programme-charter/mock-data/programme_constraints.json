@@ -1,0 +1,6 @@
+{
+  "delivery_days": 90,
+  "change_freeze_start": "2026-12-01",
+  "required_gates": ["pilot", "production", "retirement"],
+  "maximum_autonomy": "recommendation_only"
+}

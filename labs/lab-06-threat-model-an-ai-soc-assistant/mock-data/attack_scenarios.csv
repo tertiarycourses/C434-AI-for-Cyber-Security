@@ -1,0 +1,4 @@
+scenario_id,entry_point,abuse_case,impact
+AS-01,case_note,indirect_prompt_injection,unsafe_tool_request
+AS-02,retrieved_report,data_exfiltration_instruction,sensitive_context_leak
+AS-03,feedback_store,poisoned_disposition,detection_drift

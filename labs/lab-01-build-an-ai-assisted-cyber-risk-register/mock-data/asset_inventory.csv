@@ -1,0 +1,4 @@
+asset_id,asset_name,business_process,owner,criticality
+A-001,Payment API,Online payments,Digital Commerce,5
+A-002,HR Portal,Employee services,People Operations,3
+A-003,Warehouse Gateway,Fulfilment,Operations,4

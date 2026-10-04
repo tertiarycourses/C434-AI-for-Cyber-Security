@@ -1,0 +1,4 @@
+action,risk_level,default_mode,rollback_required
+revoke_session,high,submit-for-approval,yes
+block_indicator,medium,dry-run,yes
+open_case,low,automatic,no

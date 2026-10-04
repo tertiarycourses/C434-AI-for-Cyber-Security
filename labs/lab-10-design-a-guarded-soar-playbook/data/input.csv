@@ -1,0 +1,4 @@
+case_id,user,confidence,privileged,active_sessions,business_owner
+C100,alex,0.93,0,2,Sales Ops
+C101,svc-payments,0.88,1,14,Payments
+C102,bea,0.61,0,1,HR

@@ -1,0 +1,5 @@
+gap_id,gap_evidence,business_impact,current_owner
+G1,Alert queue exceeds 900 per day,Delayed containment,SOC Manager
+G2,Runbooks have inconsistent evidence links,Audit rework,IR Lead
+G3,No model-change approval path,Uncontrolled detection drift,CISO
+G4,Vendor prompt retention unknown,Data leakage risk,Privacy Officer

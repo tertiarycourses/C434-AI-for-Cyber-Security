@@ -1,0 +1,4 @@
+document_id,classification,title,text
+B1,internal,Credential phishing,Campaign uses lookalike domains and OAuth consent lures. Blocked domains expire after review.
+B2,internal,Ransomware precursor,High-volume remote service logins followed by backup deletion attempts require immediate triage.
+B3,restricted,Executive incident,Restricted case details must not be returned to general analysts.

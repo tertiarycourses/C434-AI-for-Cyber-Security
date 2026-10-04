@@ -1,0 +1,5 @@
+[
+  {"boundary_id":"TB-01","from":"Analyst UI","to":"LLM Gateway","trust":"medium"},
+  {"boundary_id":"TB-02","from":"Retrieval","to":"LLM Gateway","trust":"untrusted_content"},
+  {"boundary_id":"TB-03","from":"Tool Broker","to":"SOAR","trust":"high"}
+]

@@ -1,0 +1,4 @@
+gap_id,finding,impact,evidence_ref,priority
+G-01,Broken access control,Unauthorised account data exposure,FB-FIND-01,critical
+G-02,Stored XSS,Session compromise,FB-FIND-02,high
+G-03,Weak credential policy,Account takeover,FB-FIND-03,high

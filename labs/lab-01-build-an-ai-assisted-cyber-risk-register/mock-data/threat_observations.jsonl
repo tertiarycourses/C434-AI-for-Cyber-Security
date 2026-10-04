@@ -1,0 +1,3 @@
+{"observation_id":"OBS-01","category":"phishing","confidence":0.82,"asset_id":"A-002"}
+{"observation_id":"OBS-02","category":"credential_abuse","confidence":0.76,"asset_id":"A-001"}
+{"observation_id":"OBS-03","category":"malware","confidence":0.69,"asset_id":"A-003"}

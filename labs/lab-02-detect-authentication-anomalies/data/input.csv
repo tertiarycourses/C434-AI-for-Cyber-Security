@@ -1,0 +1,9 @@
+user,failed_logins,new_device,geo_velocity_kmh,bytes_out_mb,label
+alex,0,0,15,12,baseline
+bea,1,0,20,10,baseline
+chen,0,0,18,15,baseline
+dev,2,0,25,9,baseline
+alex,14,1,980,450,evaluate
+bea,1,1,30,11,evaluate
+chen,0,0,22,620,evaluate
+dev,3,0,35,13,evaluate

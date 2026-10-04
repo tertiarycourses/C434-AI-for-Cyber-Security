@@ -1,0 +1,5 @@
+use_case,value,data_readiness,integration,operating_risk,automation_impact
+Alert summarisation,4,5,5,2,1
+Account containment,5,4,3,5,5
+Vulnerability ranking,5,4,4,3,2
+Threat report extraction,3,5,4,2,1

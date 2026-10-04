@@ -1,0 +1,6 @@
+{
+  "revoke_session": ["SOC Lead", "Identity Owner"],
+  "block_indicator": ["SOC Lead"],
+  "open_case": [],
+  "maximum_blast_radius": 5
+}

@@ -1,0 +1,4 @@
+feature,reference_mean,current_mean,warning_threshold
+failed_logins,1.8,4.9,2.0
+new_device_rate,0.12,0.31,0.15
+bytes_out_mb,18.0,44.5,25.0

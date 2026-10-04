@@ -1,0 +1,4 @@
+asset_id,business_process,internet_exposed,criticality,owner
+WEB-01,Customer portal,1,4,Web Operations
+DB-01,Payroll processing,0,5,Finance IT
+TEST-01,Integration testing,0,1,Engineering

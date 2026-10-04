@@ -1,0 +1,5 @@
+{
+  "detection-runtime": ["evidence.read", "case.create"],
+  "soar-broker": ["action.dry_run", "action.submit"],
+  "analyst": ["case.read", "case.approve"]
+}

@@ -1,0 +1,4 @@
+component,layer,identity,allowed_action,owner
+Security Lake,Evidence,ingest-service,append,Data Engineering
+Detection Service,Analytics,detection-runtime,read,SOC Engineering
+Tool Broker,Action,soar-broker,submit-for-approval,Incident Response

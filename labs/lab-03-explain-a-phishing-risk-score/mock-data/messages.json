@@ -1,0 +1,5 @@
+[
+  {"message_id":"MAIL-01","subject":"Quarterly access review","sender_known":true,"urgency_terms":0},
+  {"message_id":"MAIL-02","subject":"URGENT: verify payroll now","sender_known":false,"urgency_terms":3},
+  {"message_id":"MAIL-03","subject":"Updated supplier banking details","sender_known":false,"urgency_terms":1}
+]

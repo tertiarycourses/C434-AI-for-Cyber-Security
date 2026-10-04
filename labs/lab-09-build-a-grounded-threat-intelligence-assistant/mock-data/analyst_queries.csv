@@ -1,0 +1,4 @@
+query_id,query,minimum_score
+Q-01,What phishing techniques target cloud administrators?,0.10
+Q-02,Which demo domains require review?,0.10
+Q-03,What is the confirmed production impact?,0.60

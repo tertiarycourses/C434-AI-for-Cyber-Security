@@ -1,0 +1,6 @@
+event_id,actual,predicted,score,window
+EV-01,1,1,0.91,current
+EV-02,0,1,0.78,current
+EV-03,1,0,0.43,current
+EV-04,0,0,0.12,current
+EV-05,1,1,0.88,current

@@ -1,0 +1,4 @@
+milestone,target_day,evidence,decision_owner
+Coverage baseline,15,validated schema report,SOC Manager
+Pilot go/no-go,45,pilot test pack,CISO
+Production recommendation,90,assurance report,CISO

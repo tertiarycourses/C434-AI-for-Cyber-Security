@@ -1,0 +1,13 @@
+# WSQ source (read-only input) and local build tooling
+source-wsq/
+build_c434.py
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+.env
+# Never publish assessment material
+/assessment/
+# Generated learner evidence is local-only
+labs/**/evidence/*
+!labs/**/evidence/.gitignore

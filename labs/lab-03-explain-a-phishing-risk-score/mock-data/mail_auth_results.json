@@ -1,0 +1,5 @@
+{
+  "MAIL-01": {"spf": "pass", "dkim": "pass", "dmarc": "pass"},
+  "MAIL-02": {"spf": "fail", "dkim": "fail", "dmarc": "fail"},
+  "MAIL-03": {"spf": "pass", "dkim": "fail", "dmarc": "quarantine"}
+}

@@ -1,0 +1,6 @@
+id,work_package,duration_days,depends_on,owner,evidence
+W1,Telemetry schema,12,,Data Lead,Schema test
+W2,Detection baseline,15,W1,Detection Lead,Benchmark report
+W3,Tool broker,18,W1,Platform Lead,Permission test
+W4,Pilot evaluation,20,W2|W3,Product Owner,Gate decision
+W5,Production rollout,15,W4,CISO,Approval record

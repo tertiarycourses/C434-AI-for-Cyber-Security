@@ -1,0 +1,6 @@
+{
+  "C-01": "content isolation",
+  "C-02": "tool allow-list",
+  "C-03": "human approval",
+  "C-04": "immutable audit log"
+}

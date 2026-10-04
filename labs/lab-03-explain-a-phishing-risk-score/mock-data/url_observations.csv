@@ -1,0 +1,4 @@
+message_id,display_domain,actual_domain,domain_age_days,https,redirect_count
+MAIL-01,intranet.demo,intranet.demo,1800,1,0
+MAIL-02,payroll.demo,payroll-verify.demo,2,1,2
+MAIL-03,supplier.demo,supplier-payments.demo,21,1,1
